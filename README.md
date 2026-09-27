@@ -1,4 +1,4 @@
-# Anatomy Trainer V0.1
+# Anatomy Trainer V0.2
 
 A mobile-friendly anatomy flashcard/quiz web app.
 
@@ -14,7 +14,7 @@ Then open `http://localhost:8000`.
 4. GitHub will provide the public web-app link.
 
 ## Images
-V0.1 deliberately uses a simple body diagram rather than copyrighted anatomy art.
+V0.2 deliberately uses a simple body diagram rather than copyrighted anatomy art.
 School images can later be added in an `images/` folder and associated with each
 muscle in `muscles.json`. The study data and saved progress model do not need to change.
 

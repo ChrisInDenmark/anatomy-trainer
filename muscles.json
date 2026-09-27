@@ -6,10 +6,12 @@
     "origin": "Supraspinous fossa of scapula",
     "insertion": "Superior facet of greater tubercle of humerus",
     "action": "Initiates arm abduction; stabilizes humeral head",
-    "nerve": "Suprascapular nerve (C5\u2013C6)",
+    "nerve": "Suprascapular nerve (C5–C6)",
     "view": "posterior",
     "x": 42,
-    "y": 29
+    "y": 29,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20supraspinatus.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "infraspinatus",
@@ -18,10 +20,12 @@
     "origin": "Infraspinous fossa of scapula",
     "insertion": "Middle facet of greater tubercle of humerus",
     "action": "Externally rotates arm; stabilizes humeral head",
-    "nerve": "Suprascapular nerve (C5\u2013C6)",
+    "nerve": "Suprascapular nerve (C5–C6)",
     "view": "posterior",
     "x": 43,
-    "y": 36
+    "y": 36,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20infraspinatus.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "teres-minor",
@@ -30,10 +34,12 @@
     "origin": "Lateral border of scapula",
     "insertion": "Inferior facet of greater tubercle of humerus",
     "action": "Externally rotates and weakly adducts arm",
-    "nerve": "Axillary nerve (C5\u2013C6)",
+    "nerve": "Axillary nerve (C5–C6)",
     "view": "posterior",
     "x": 45,
-    "y": 42
+    "y": 42,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20teres%20minor.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "subscapularis",
@@ -42,10 +48,12 @@
     "origin": "Subscapular fossa",
     "insertion": "Lesser tubercle of humerus",
     "action": "Internally rotates and adducts arm",
-    "nerve": "Upper and lower subscapular nerves (C5\u2013C7)",
+    "nerve": "Upper and lower subscapular nerves (C5–C7)",
     "view": "anterior",
     "x": 42,
-    "y": 34
+    "y": 34,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20subscapularis.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "deltoid",
@@ -54,10 +62,12 @@
     "origin": "Lateral clavicle, acromion, spine of scapula",
     "insertion": "Deltoid tuberosity of humerus",
     "action": "Abducts arm; anterior/posterior fibers assist flexion/extension",
-    "nerve": "Axillary nerve (C5\u2013C6)",
+    "nerve": "Axillary nerve (C5–C6)",
     "view": "anterior",
     "x": 31,
-    "y": 28
+    "y": 28,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20deltoideus.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "biceps",
@@ -66,10 +76,12 @@
     "origin": "Supraglenoid tubercle and coracoid process",
     "insertion": "Radial tuberosity and bicipital aponeurosis",
     "action": "Supinates forearm and flexes elbow",
-    "nerve": "Musculocutaneous nerve (C5\u2013C6)",
+    "nerve": "Musculocutaneous nerve (C5–C6)",
     "view": "anterior",
     "x": 34,
-    "y": 45
+    "y": 45,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20biceps%20brachii.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "brachialis",
@@ -81,7 +93,9 @@
     "nerve": "Musculocutaneous nerve; radial contribution",
     "view": "anterior",
     "x": 35,
-    "y": 53
+    "y": 53,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20brachialis.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "coracobrachialis",
@@ -90,10 +104,12 @@
     "origin": "Coracoid process",
     "insertion": "Middle medial humerus",
     "action": "Flexes and adducts arm",
-    "nerve": "Musculocutaneous nerve (C5\u2013C7)",
+    "nerve": "Musculocutaneous nerve (C5–C7)",
     "view": "anterior",
     "x": 41,
-    "y": 42
+    "y": 42,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20coracobrachialis.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "triceps",
@@ -102,10 +118,12 @@
     "origin": "Infraglenoid tubercle and posterior humerus",
     "insertion": "Olecranon of ulna",
     "action": "Extends elbow; long head assists arm extension/adduction",
-    "nerve": "Radial nerve (C6\u2013C8)",
+    "nerve": "Radial nerve (C6–C8)",
     "view": "posterior",
     "x": 35,
-    "y": 48
+    "y": 48,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20triceps%20brachii.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "pectoralis-major",
@@ -117,7 +135,9 @@
     "nerve": "Lateral and medial pectoral nerves",
     "view": "anterior",
     "x": 45,
-    "y": 29
+    "y": 29,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20pectoralis%20major.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "latissimus-dorsi",
@@ -126,10 +146,12 @@
     "origin": "Lower thoracic spine, thoracolumbar fascia, iliac crest",
     "insertion": "Floor of intertubercular sulcus of humerus",
     "action": "Extends, adducts and internally rotates arm",
-    "nerve": "Thoracodorsal nerve (C6\u2013C8)",
+    "nerve": "Thoracodorsal nerve (C6–C8)",
     "view": "posterior",
     "x": 46,
-    "y": 52
+    "y": 52,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20latissimus%20dorsi.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "teres-major",
@@ -138,82 +160,96 @@
     "origin": "Inferior angle/posterior scapula",
     "insertion": "Medial lip of intertubercular sulcus of humerus",
     "action": "Adducts and internally rotates arm; assists extension",
-    "nerve": "Lower subscapular nerve (C5\u2013C6)",
+    "nerve": "Lower subscapular nerve (C5–C6)",
     "view": "posterior",
     "x": 45,
-    "y": 45
+    "y": 45,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20teres%20major.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "serratus-anterior",
     "name": "Serratus anterior",
     "region": "Chest",
-    "origin": "External surfaces of ribs 1\u20138",
+    "origin": "External surfaces of ribs 1–8",
     "insertion": "Anterior medial border of scapula",
     "action": "Protracts and upwardly rotates scapula; holds it to thorax",
-    "nerve": "Long thoracic nerve (C5\u2013C7)",
+    "nerve": "Long thoracic nerve (C5–C7)",
     "view": "anterior",
     "x": 50,
-    "y": 42
+    "y": 42,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20serratus%20anterior.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "trapezius",
     "name": "Trapezius",
     "region": "Back",
-    "origin": "Occiput, nuchal ligament, C7\u2013T12 spinous processes",
+    "origin": "Occiput, nuchal ligament, C7–T12 spinous processes",
     "insertion": "Clavicle, acromion and spine of scapula",
     "action": "Elevates, retracts, depresses and upwardly rotates scapula",
-    "nerve": "Spinal accessory nerve (CN XI); C3\u2013C4 proprioception",
+    "nerve": "Spinal accessory nerve (CN XI); C3–C4 proprioception",
     "view": "posterior",
     "x": 50,
-    "y": 24
+    "y": 24,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20trapezius.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "rhomboid-major",
     "name": "Rhomboid major",
     "region": "Back",
-    "origin": "T2\u2013T5 spinous processes",
+    "origin": "T2–T5 spinous processes",
     "insertion": "Medial border of scapula below spine",
     "action": "Retracts and downwardly rotates scapula",
-    "nerve": "Dorsal scapular nerve (C4\u2013C5)",
+    "nerve": "Dorsal scapular nerve (C4–C5)",
     "view": "posterior",
     "x": 48,
-    "y": 36
+    "y": 36,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20rhomboideus%20major.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "rhomboid-minor",
     "name": "Rhomboid minor",
     "region": "Back",
-    "origin": "Nuchal ligament and C7\u2013T1 spinous processes",
+    "origin": "Nuchal ligament and C7–T1 spinous processes",
     "insertion": "Medial end of scapular spine",
     "action": "Retracts and downwardly rotates scapula",
-    "nerve": "Dorsal scapular nerve (C4\u2013C5)",
+    "nerve": "Dorsal scapular nerve (C4–C5)",
     "view": "posterior",
     "x": 48,
-    "y": 32
+    "y": 32,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20rhomboideus%20minor.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "levator-scapulae",
     "name": "Levator scapulae",
     "region": "Back",
-    "origin": "Transverse processes C1\u2013C4",
+    "origin": "Transverse processes C1–C4",
     "insertion": "Superior medial border of scapula",
     "action": "Elevates and downwardly rotates scapula",
-    "nerve": "Dorsal scapular nerve and C3\u2013C4",
+    "nerve": "Dorsal scapular nerve and C3–C4",
     "view": "posterior",
     "x": 45,
-    "y": 23
+    "y": 23,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20levator%20scapulae.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "pectoralis-minor",
     "name": "Pectoralis minor",
     "region": "Chest",
-    "origin": "Ribs 3\u20135",
+    "origin": "Ribs 3–5",
     "insertion": "Coracoid process",
     "action": "Stabilizes scapula by drawing it anteriorly/inferiorly",
-    "nerve": "Medial pectoral nerve (C8\u2013T1)",
+    "nerve": "Medial pectoral nerve (C8–T1)",
     "view": "anterior",
     "x": 44,
-    "y": 34
+    "y": 34,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20pectoralis%20minor.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "subclavius",
@@ -222,10 +258,12 @@
     "origin": "First rib and costal cartilage",
     "insertion": "Inferior surface of middle clavicle",
     "action": "Anchors and depresses clavicle",
-    "nerve": "Nerve to subclavius (C5\u2013C6)",
+    "nerve": "Nerve to subclavius (C5–C6)",
     "view": "anterior",
     "x": 46,
-    "y": 23
+    "y": 23,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20subclavius.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   },
   {
     "id": "anconeus",
@@ -234,9 +272,11 @@
     "origin": "Lateral epicondyle of humerus",
     "insertion": "Lateral olecranon and proximal posterior ulna",
     "action": "Assists elbow extension and stabilizes elbow",
-    "nerve": "Radial nerve (C7\u2013T1)",
+    "nerve": "Radial nerve (C7–T1)",
     "view": "posterior",
     "x": 34,
-    "y": 62
+    "y": 62,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20anconeus.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy"
   }
 ]
