@@ -2,7 +2,7 @@
   {
     "id": "supraspinatus",
     "name": "Supraspinatus",
-    "region": "Shoulder",
+    "region": "Shoulder / Rotator cuff",
     "origin": "Supraspinous fossa of scapula",
     "insertion": "Superior facet of greater tubercle of humerus",
     "action": "Initiates arm abduction; stabilizes humeral head",
@@ -10,13 +10,15 @@
     "view": "posterior",
     "x": 42,
     "y": 29,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20supraspinatus.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/supraspinatus.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/supraspinatus.png",
+    "sourceFile": "Supraspinatus muscle back3.png"
   },
   {
     "id": "infraspinatus",
     "name": "Infraspinatus",
-    "region": "Shoulder",
+    "region": "Shoulder / Rotator cuff",
     "origin": "Infraspinous fossa of scapula",
     "insertion": "Middle facet of greater tubercle of humerus",
     "action": "Externally rotates arm; stabilizes humeral head",
@@ -24,13 +26,15 @@
     "view": "posterior",
     "x": 43,
     "y": 36,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20infraspinatus.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/infraspinatus.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/infraspinatus.png",
+    "sourceFile": "Infraspinatus muscle back2.png"
   },
   {
     "id": "teres-minor",
     "name": "Teres minor",
-    "region": "Shoulder",
+    "region": "Shoulder / Rotator cuff",
     "origin": "Lateral border of scapula",
     "insertion": "Inferior facet of greater tubercle of humerus",
     "action": "Externally rotates and weakly adducts arm",
@@ -38,13 +42,15 @@
     "view": "posterior",
     "x": 45,
     "y": 42,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20teres%20minor.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/teres-minor.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/teres-minor.png",
+    "sourceFile": "Teres minor muscle back.png"
   },
   {
     "id": "subscapularis",
     "name": "Subscapularis",
-    "region": "Shoulder",
+    "region": "Shoulder / Rotator cuff",
     "origin": "Subscapular fossa",
     "insertion": "Lesser tubercle of humerus",
     "action": "Internally rotates and adducts arm",
@@ -52,13 +58,15 @@
     "view": "anterior",
     "x": 42,
     "y": 34,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20subscapularis.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/subscapularis.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/subscapularis.png",
+    "sourceFile": "Subscapularis muscle frontal.png"
   },
   {
     "id": "deltoid",
     "name": "Deltoid",
-    "region": "Shoulder",
+    "region": "Shoulder / Rotator cuff",
     "origin": "Lateral clavicle, acromion, spine of scapula",
     "insertion": "Deltoid tuberosity of humerus",
     "action": "Abducts arm; anterior/posterior fibers assist flexion/extension",
@@ -66,8 +74,10 @@
     "view": "anterior",
     "x": 31,
     "y": 28,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20deltoideus.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/deltoid.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/deltoid.png",
+    "sourceFile": "Deltoid muscle top.png"
   },
   {
     "id": "biceps",
@@ -80,8 +90,10 @@
     "view": "anterior",
     "x": 34,
     "y": 45,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20biceps%20brachii.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/biceps.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/biceps.png",
+    "sourceFile": "Biceps brachii muscle01.png"
   },
   {
     "id": "brachialis",
@@ -94,8 +106,10 @@
     "view": "anterior",
     "x": 35,
     "y": 53,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20brachialis.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/brachialis.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/brachialis.png",
+    "sourceFile": "Brachialis muscle01.png"
   },
   {
     "id": "coracobrachialis",
@@ -108,8 +122,10 @@
     "view": "anterior",
     "x": 41,
     "y": 42,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20coracobrachialis.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/coracobrachialis.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/coracobrachialis.png",
+    "sourceFile": "Coracobrachialis muscle01.png"
   },
   {
     "id": "triceps",
@@ -122,8 +138,10 @@
     "view": "posterior",
     "x": 35,
     "y": 48,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20triceps%20brachii.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/triceps.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/triceps.png",
+    "sourceFile": "Triceps brachii muscle07.png"
   },
   {
     "id": "pectoralis-major",
@@ -136,13 +154,15 @@
     "view": "anterior",
     "x": 45,
     "y": 29,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20pectoralis%20major.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/pectoralis-major.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/pectoralis-major.png",
+    "sourceFile": "Gray410.png"
   },
   {
     "id": "latissimus-dorsi",
     "name": "Latissimus dorsi",
-    "region": "Back",
+    "region": "Back / Scapula",
     "origin": "Lower thoracic spine, thoracolumbar fascia, iliac crest",
     "insertion": "Floor of intertubercular sulcus of humerus",
     "action": "Extends, adducts and internally rotates arm",
@@ -150,13 +170,15 @@
     "view": "posterior",
     "x": 46,
     "y": 52,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20latissimus%20dorsi.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/latissimus-dorsi.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/latissimus-dorsi.png",
+    "sourceFile": "Latissimus dorsi muscle back2.png"
   },
   {
     "id": "teres-major",
     "name": "Teres major",
-    "region": "Shoulder",
+    "region": "Shoulder / Rotator cuff",
     "origin": "Inferior angle/posterior scapula",
     "insertion": "Medial lip of intertubercular sulcus of humerus",
     "action": "Adducts and internally rotates arm; assists extension",
@@ -164,8 +186,10 @@
     "view": "posterior",
     "x": 45,
     "y": 45,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20teres%20major.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/teres-major.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/teres-major.png",
+    "sourceFile": "Teres major muscle back.png"
   },
   {
     "id": "serratus-anterior",
@@ -178,13 +202,15 @@
     "view": "anterior",
     "x": 50,
     "y": 42,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20serratus%20anterior.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/serratus-anterior.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/serratus-anterior.png",
+    "sourceFile": "Serratus anterior muscles top.png"
   },
   {
     "id": "trapezius",
     "name": "Trapezius",
-    "region": "Back",
+    "region": "Back / Scapula",
     "origin": "Occiput, nuchal ligament, C7–T12 spinous processes",
     "insertion": "Clavicle, acromion and spine of scapula",
     "action": "Elevates, retracts, depresses and upwardly rotates scapula",
@@ -192,13 +218,15 @@
     "view": "posterior",
     "x": 50,
     "y": 24,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20trapezius.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/trapezius.svg",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/trapezius.svg",
+    "sourceFile": "Trapezius muscle.svg"
   },
   {
     "id": "rhomboid-major",
     "name": "Rhomboid major",
-    "region": "Back",
+    "region": "Back / Scapula",
     "origin": "T2–T5 spinous processes",
     "insertion": "Medial border of scapula below spine",
     "action": "Retracts and downwardly rotates scapula",
@@ -206,13 +234,15 @@
     "view": "posterior",
     "x": 48,
     "y": 36,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20rhomboideus%20major.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/rhomboid-major.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/rhomboid-major.png",
+    "sourceFile": "Rhomboid major muscle back.png"
   },
   {
     "id": "rhomboid-minor",
     "name": "Rhomboid minor",
-    "region": "Back",
+    "region": "Back / Scapula",
     "origin": "Nuchal ligament and C7–T1 spinous processes",
     "insertion": "Medial end of scapular spine",
     "action": "Retracts and downwardly rotates scapula",
@@ -220,13 +250,15 @@
     "view": "posterior",
     "x": 48,
     "y": 32,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20rhomboideus%20minor.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/rhomboid-minor.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/rhomboid-minor.png",
+    "sourceFile": "Rhomboid minor muscle back.png"
   },
   {
     "id": "levator-scapulae",
     "name": "Levator scapulae",
-    "region": "Back",
+    "region": "Back / Scapula",
     "origin": "Transverse processes C1–C4",
     "insertion": "Superior medial border of scapula",
     "action": "Elevates and downwardly rotates scapula",
@@ -234,8 +266,10 @@
     "view": "posterior",
     "x": 45,
     "y": 23,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20levator%20scapulae.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/levator-scapulae.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/levator-scapulae.png",
+    "sourceFile": "Levator scapulae muscle back.png"
   },
   {
     "id": "pectoralis-minor",
@@ -248,8 +282,10 @@
     "view": "anterior",
     "x": 44,
     "y": 34,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20pectoralis%20minor.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/pectoralis-minor.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/pectoralis-minor.png",
+    "sourceFile": "Pectoralis minor muscle and shoulder blade.png"
   },
   {
     "id": "subclavius",
@@ -262,8 +298,10 @@
     "view": "anterior",
     "x": 46,
     "y": 23,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20subclavius.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/subclavius.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/subclavius.png",
+    "sourceFile": "Subclavius muscle frontal.png"
   },
   {
     "id": "anconeus",
@@ -276,7 +314,9 @@
     "view": "posterior",
     "x": 34,
     "y": 62,
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray%20%E2%80%94%20musculus%20anconeus.png",
-    "imageSource": "Wikimedia Commons / Gray's Anatomy"
+    "image": "images/anconeus.png",
+    "imageSource": "Wikimedia Commons / Gray's Anatomy",
+    "localImage": "images/anconeus.png",
+    "sourceFile": "Gray — musculus anconeus.png"
   }
 ]

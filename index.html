@@ -1,21 +1,12 @@
-<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Anatomy Trainer</title><link rel="stylesheet" href="style.css"></head>
-<body><main class="app">
-<header><div><small>ANATOMY TRAINER</small><h1 id="title">Shoulder & Upper Arm</h1></div><button id="resetStats" class="icon">↻</button></header>
-<section id="home">
-<div class="hero"><div class="bodyIcon">◉</div><h2>Learn it. Locate it. Connect it.</h2><p>20 muscles • origins • insertions • actions • nerves</p></div>
-<div class="stats"><div><b id="studied">0</b><span>Studied</span></div><div><b id="known">0</b><span>Known</span></div><div><b id="accuracy">—</b><span>Accuracy</span></div></div>
-<div class="modegrid"><button data-mode="study"><b>Study</b><span>Explore the cards</span></button><button data-mode="name"><b>Name the muscle</b><span>Identify highlighted muscle</span></button><button data-mode="origin"><b>Origin</b><span>Recall proximal attachment</span></button><button data-mode="insertion"><b>Insertion</b><span>Recall distal attachment</span></button><button data-mode="action"><b>Action</b><span>Recall movement/function</span></button><button data-mode="mixed"><b>Mixed quiz</b><span>Everything together</span></button></div>
-</section>
-<section id="cardScreen" class="hidden">
-<div class="toprow"><button id="back">‹ Home</button><span id="progress"></span></div>
-<div class="card">
-<div id="prompt" class="prompt"></div>
-<div class="anatomyWrap"><img id="anatomyImage" class="anatomyImage" alt="Anatomy study image"><div class="view" id="view"></div><div id="imageFallback" class="imageFallback hidden">Image unavailable — replace this card image later.</div></div>
-<div id="answer" class="answer hidden"></div>
-<button id="reveal" class="primary">Show answer</button>
-<div id="ratings" class="ratings hidden"><button data-rating="again">Again</button><button data-rating="hard">Hard</button><button data-rating="known">Got it</button></div>
-</div></section>
-<footer>V0.2 • Anatomical image edition</footer>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#f5f5f7"><title>Anatomy Trainer</title><link rel="stylesheet" href="style.css"></head><body><main class="app">
+<header><div><div class="eyebrow">ANATOMY TRAINER</div><h1 id="pageTitle">Choose an area</h1></div><button id="changeArea" class="textBtn hidden">Change area</button></header>
+<section id="areaScreen"><p class="intro">Choose the muscles for this learning session.</p><div id="areas" class="areaGrid"></div></section>
+<section id="studyScreen" class="hidden"><div class="sessionBar"><span id="areaName"></span><span id="counter"></span></div>
+<article class="studyCard"><div class="imagePanel"><img id="muscleImage" alt=""><div id="imageFallback" class="fallback hidden">Image not available</div></div>
+<div class="factsPanel">
+<div class="fact" data-key="name"><div class="factHead"><span>Name</span><button class="reveal">Reveal</button></div><div class="answer"></div></div>
+<div class="fact locked" data-key="origin"><div class="factHead"><span>Origin</span><button class="reveal">Reveal</button></div><div class="answer"></div></div>
+<div class="fact locked" data-key="insertion"><div class="factHead"><span>Insertion</span><button class="reveal">Reveal</button></div><div class="answer"></div></div>
+<div class="fact locked" data-key="action"><div class="factHead"><span>Action</span><button class="reveal">Reveal</button></div><div class="answer"></div></div>
+</div></article><div class="nav"><button id="previous" class="secondary">Previous</button><button id="next" class="primary">Next muscle</button></div></section>
 </main><script src="app.js"></script></body></html>
