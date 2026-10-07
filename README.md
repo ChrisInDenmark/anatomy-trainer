@@ -1,11 +1,10 @@
-# Anatomy Trainer V0.10 — Dansk/Latin + English
+# Anatomy Trainer V0.11 — Language Fix
 
-Adds a language selector:
-- Dansk / Latin (default)
-- English
+Fixes the Dansk/Latin ↔ English selector.
 
-Dansk/Latin uses Latin anatomical terminology for structures and Danish descriptions for muscle function.
-The selected language is remembered in the browser.
-
-Single bottom reveal button remains:
-Name/Navn → Origin/Udspring → Insertion/Tilhæftning → Action/Funktion → Next/Næste muskel.
+- Dansk/Latin is default on first use.
+- Selected language is visibly highlighted.
+- Interface labels change immediately.
+- Muscle answers change immediately.
+- Choice is remembered in the browser.
+- Existing single bottom Reveal button is retained.

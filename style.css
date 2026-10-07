@@ -12,3 +12,8 @@
 .languageSwitch{display:flex;justify-content:flex-end;gap:4px;margin-bottom:14px}
 .lang{border:0;background:#e8e8ed;color:#49494d;padding:8px 13px;border-radius:999px;font-weight:700;cursor:pointer}
 .lang.active{background:#1d1d1f;color:white}
+
+.languageSwitch{display:flex;justify-content:flex-end;gap:6px;margin-bottom:16px}
+.lang{border:2px solid transparent;background:#e8e8ed;color:#555;padding:9px 15px;border-radius:999px;font-weight:750;cursor:pointer}
+.lang.active{background:#1d1d1f!important;color:#fff!important;border-color:#1d1d1f!important}
+.lang:not(.active):hover{background:#d9d9de}
