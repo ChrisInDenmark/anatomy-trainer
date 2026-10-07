@@ -1,11 +1,11 @@
-# Anatomy Trainer V0.9 — Single Reveal Button
+# Anatomy Trainer V0.10 — Dansk/Latin + English
 
-Simplified flashcard interaction:
-- Choose body area.
-- Muscle image remains visible.
-- One large sticky button stays at the bottom.
-- Repeated presses reveal Name → Origin → Insertion → Action.
-- After Action, the same button becomes Next Muscle.
-- Previous remains available separately.
+Adds a language selector:
+- Dansk / Latin (default)
+- English
 
-No need to move between four reveal buttons.
+Dansk/Latin uses Latin anatomical terminology for structures and Danish descriptions for muscle function.
+The selected language is remembered in the browser.
+
+Single bottom reveal button remains:
+Name/Navn → Origin/Udspring → Insertion/Tilhæftning → Action/Funktion → Next/Næste muskel.

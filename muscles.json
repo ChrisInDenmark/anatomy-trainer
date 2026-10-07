@@ -13,7 +13,11 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Supraspinatus.PNG",
     "imageSource": "Wikimedia Commons / Gray's Anatomy",
     "localImage": "",
-    "sourceFile": "Supraspinatus muscle back3.png"
+    "sourceFile": "Supraspinatus muscle back3.png",
+    "name_da": "M. supraspinatus",
+    "origin_da": "Fossa supraspinata scapulae",
+    "insertion_da": "Tuberculum majus humeri (øverste facet)",
+    "action_da": "Initierer abduktion af armen (ca. de første 15°) og stabiliserer caput humeri i skulderleddet."
   },
   {
     "id": "infraspinatus",
@@ -29,7 +33,11 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray_%E2%80%94_musculus_infraspinatus.png",
     "imageSource": "Wikimedia Commons / Gray's Anatomy",
     "localImage": "",
-    "sourceFile": "Infraspinatus muscle back2.png"
+    "sourceFile": "Infraspinatus muscle back2.png",
+    "name_da": "M. infraspinatus",
+    "origin_da": "Fossa infraspinata scapulae",
+    "insertion_da": "Tuberculum majus humeri (midterste facet)",
+    "action_da": "Udadrotation af armen og stabilisering af caput humeri i skulderleddet."
   },
   {
     "id": "teres-minor",
@@ -45,7 +53,11 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gray_%E2%80%94_musculus_teres_minor.png",
     "imageSource": "Wikimedia Commons / Gray's Anatomy",
     "localImage": "",
-    "sourceFile": "Teres minor muscle back.png"
+    "sourceFile": "Teres minor muscle back.png",
+    "name_da": "M. teres minor",
+    "origin_da": "Margo lateralis scapulae",
+    "insertion_da": "Tuberculum majus humeri (nederste facet)",
+    "action_da": "Udadrotation og svag adduktion af armen; stabiliserer skulderleddet."
   },
   {
     "id": "subscapularis",
@@ -61,7 +73,11 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gray_%E2%80%94_musculus_subscapularis.png",
     "imageSource": "Wikimedia Commons / Gray's Anatomy",
     "localImage": "",
-    "sourceFile": "Subscapularis muscle frontal.png"
+    "sourceFile": "Subscapularis muscle frontal.png",
+    "name_da": "M. subscapularis",
+    "origin_da": "Fossa subscapularis",
+    "insertion_da": "Tuberculum minus humeri",
+    "action_da": "Indadrotation og adduktion af armen; stabiliserer caput humeri i skulderleddet."
   },
   {
     "id": "deltoid",
@@ -77,7 +93,11 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Gray_%E2%80%94_deltoideus.png",
     "imageSource": "Wikimedia Commons / Gray's Anatomy",
     "localImage": "",
-    "sourceFile": "Deltoid muscle top.png"
+    "sourceFile": "Deltoid muscle top.png",
+    "name_da": "M. deltoideus",
+    "origin_da": "Clavicula (laterale 1/3), acromion og spina scapulae",
+    "insertion_da": "Tuberositas deltoidea humeri",
+    "action_da": "Primært abduktion af armen. Forreste fibre bidrager til fleksion og indadrotation; bageste fibre til ekstension og udadrotation."
   },
   {
     "id": "teres-major",
@@ -93,6 +113,10 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gray_%E2%80%94_musculus_teres_major.png",
     "imageSource": "Wikimedia Commons / Gray's Anatomy",
     "localImage": "",
-    "sourceFile": "Teres major muscle back.png"
+    "sourceFile": "Teres major muscle back.png",
+    "name_da": "M. teres major",
+    "origin_da": "Angulus inferior scapulae og nedre del af margo lateralis scapulae",
+    "insertion_da": "Crista tuberculi minoris humeri (mediale læbe af sulcus intertubercularis)",
+    "action_da": "Adduktion, indadrotation og ekstension af armen."
   }
 ]

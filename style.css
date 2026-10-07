@@ -8,3 +8,7 @@
   .nav{margin-left:-2px;margin-right:-2px}
   .bigReveal{min-height:64px;font-size:19px}
 }
+
+.languageSwitch{display:flex;justify-content:flex-end;gap:4px;margin-bottom:14px}
+.lang{border:0;background:#e8e8ed;color:#49494d;padding:8px 13px;border-radius:999px;font-weight:700;cursor:pointer}
+.lang.active{background:#1d1d1f;color:white}
