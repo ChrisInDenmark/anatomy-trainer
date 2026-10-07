@@ -1,8 +1,11 @@
-# Anatomy Trainer V0.7 — Simple Flip Cards
+# Anatomy Trainer V0.9 — Single Reveal Button
 
-Choose body area → image → reveal Name → Origin → Insertion → Action → Next muscle.
+Simplified flashcard interaction:
+- Choose body area.
+- Muscle image remains visible.
+- One large sticky button stays at the bottom.
+- Repeated presses reveal Name → Origin → Insertion → Action.
+- After Action, the same button becomes Next Muscle.
+- Previous remains available separately.
 
-Desktop: image left, reveal sheet right.
-Phone: image above reveal sheet.
-
-The V0.6 local image downloader is retained.
+No need to move between four reveal buttons.
